@@ -1,0 +1,12 @@
+
+1) git clone URL --> cd repo --> put your files
+
+2) git config --global user.email "...@gmail.com"
+
+3) git config --blobal user.name "name"
+
+4) git add .
+
+5) git commit -m "your message"
+
+6) git push -u origin master
